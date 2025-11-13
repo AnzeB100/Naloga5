@@ -7,6 +7,7 @@ Od takrat se je Git razširil in postal **standard** v svetu razvoja programske 
 Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
 S tem se zmanjša možnost konfliktov in izgube podatkov.
 
+To besedilo je dodala oseba z Vlogo C (Tjan) v drugi odstavek datoteke BESEDILO.md
 
 ## Glavne značilnosti
 
